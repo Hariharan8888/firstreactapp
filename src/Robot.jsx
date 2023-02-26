@@ -1,0 +1,63 @@
+export const Robot = [
+    {
+        Id:1,
+        Name:'GokulNath',
+        username:'Mental',
+        email:'Coolgokul@gmail.com'
+    },
+    {
+        Id:2,
+        Name:'Murali',
+        username:'Topper',
+        email:'ReddyTopper@gmail.com'
+    },
+    {
+        Id:3,
+        Name:'VasanthKumar',
+        username:'Silent Guy',
+        email:'Vasanth07@gmail.com'
+    },
+    {
+        Id:4,
+        Name:'Uthra',
+        username:'Mental2',
+        email:'Mentalsingh@gmail.com'
+    },
+    {
+        Id:5,
+        Name:'Monish',
+        username:'Tooper2',
+        email:'MoniKumarTopper@gmail.com'
+    },
+    {
+        Id:6,
+        Name:'Elavazhagn',
+        username:'Hulk',
+        email:'HulkEla@gmail.com'
+    },
+    {
+        Id:7,
+        Name:'JaiSurya',
+        username:'Captian',
+        email:'Jai@gmail.com'
+    },
+    {
+        Id:8,
+        Name:'Jonny',
+        username:'Secret Topper',
+        email:'Jonnysins@gmail.com'
+    },
+    {
+        Id:9,
+        Name:'suseee',
+        username:'Legend',
+        email:'Legendsuse@gmail.com'
+    },
+    {
+        Id:10,
+        Name:'Santhosh',
+        username:'Silentkiller',
+        email:'Santhosh@gmail.com'
+    },
+    
+]
